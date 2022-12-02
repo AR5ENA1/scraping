@@ -1,0 +1,30 @@
+{
+    "vacancy\u21161": {
+        "vacancy": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0441\u0438\u0441\u0442\u0435\u043c\u044b A/B-\u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u043e\u0432",
+        "website": "https://spb.hh.ru/vacancy/73232547?from=vacancy_search_list&query=python",
+        "compensation": "\u041e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442",
+        "company": "\u041e\u041e\u041e HeadHunter::Backend",
+        "city": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u0430\u044f"
+    },
+    "vacancy\u21162": {
+        "vacancy": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "website": "https://spb.hh.ru/vacancy/73193605?from=vacancy_search_list&query=python",
+        "compensation": "\u043e\u0442 100 000 \u0440\u0443\u0431.",
+        "company": "Own Script",
+        "city": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    "vacancy\u21163": {
+        "vacancy": "Middle \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python / Django",
+        "website": "https://spb.hh.ru/vacancy/72752600?from=vacancy_search_list&query=python",
+        "compensation": "60 000 \u2013 140 000 \u0440\u0443\u0431.",
+        "company": "\u041e\u041e\u041e \u0420\u0435\u043a\u043b\u0430\u043c\u043d\u043e\u0435 \u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u0414\u0435\u043b\u044c\u0442\u0430",
+        "city": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    "vacancy\u21164": {
+        "vacancy": "Python Developer (Backend)",
+        "website": "https://spb.hh.ru/vacancy/71158485?from=vacancy_search_list&query=python",
+        "compensation": "\u041e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442",
+        "company": "Samsung Research Russia",
+        "city": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0421\u0430\u0432\u0451\u043b\u043e\u0432\u0441\u043a\u0430\u044f"
+    }
+}
